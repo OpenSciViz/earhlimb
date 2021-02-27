@@ -1,1 +1,1 @@
-# earhlimb
+# planetlimb -- beyond earthlimb!
